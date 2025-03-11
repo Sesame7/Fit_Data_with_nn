@@ -1,3 +1,7 @@
+#Don't push any doc file
+.doc
+.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
