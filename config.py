@@ -6,7 +6,7 @@ OUTPUT_FILE = "Results.xlsx"
 EVAL_MODEL_FILE = "model.pth"
 
 # Model configuration
-dropout_rate = 0.005
+dropout_rate = 0.001
 train_percentage = 0.6
 val_percentage = 0.2
 num_epochs = 10000
